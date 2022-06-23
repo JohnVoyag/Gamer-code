@@ -1,2 +1,2 @@
-# Gamer code
- Primeiro codigo de um game funcional em javascript
+# Gamer code!
+ Primeiro código de um game funcional em javascript.
